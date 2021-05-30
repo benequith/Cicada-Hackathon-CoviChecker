@@ -12,15 +12,15 @@ In this pandemic, majority of the covid positive patients are isolated in their 
 
 # What does our application do?
 
-Sends hourly notifications to users, so that they dont forget to track their parameters.
-Keeps track of the medicines taken and missed.
-Users can view previous entries in the form of an ordered log, which they can use to consult with their doctors with ease.
-Resources fetcher which displays the verified resources from Twitter based upon the city of the user.
-Community page for the users to interact
-Chat-bot to improve the mood of isolated patients.
+* Sends hourly notifications to users, so that they dont forget to track their parameters.
+* Keeps track of the medicines taken and missed.
+* Users can view previous entries in the form of an ordered log, which they can use to consult with their doctors with ease.
+* Resources fetcher which displays the verified resources from Twitter based upon the city of the user.
+* Community page for the users to interact
+* Chat-bot to improve the mood of isolated patients.
 
 # Future implementations
-Analysis of user data.
-Create a mobile application of the same.
-Different portals for users and doctors to make their interaction more efficient.
-Integrate it with Google Assistant.
+* Analysis of user data.
+* Create a mobile application of the same.
+* Different portals for users and doctors to make their interaction more efficient.
+* Integrate it with Google Assistant.
