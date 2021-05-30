@@ -4,7 +4,7 @@ Created a prototype web application, which would help home-isolated COVID positi
 
 # Deployment
 
-View our prototype here:https://covi-checker.herokuapp.com/
+View our prototype here: https://covi-checker.herokuapp.com/
 
 # Introduction
 
@@ -24,3 +24,11 @@ In this pandemic, majority of the covid positive patients are isolated in their 
 * Create a mobile application of the same.
 * Different portals for users and doctors to make their interaction more efficient.
 * Integrate it with Google Assistant.
+
+# Contributors:
+### Team YAAS
+@RishikaGhosh
+@RounakNeogy
+@benequith
+@subhashishp
+@AnuragNayak
